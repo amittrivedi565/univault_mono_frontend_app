@@ -7,10 +7,10 @@ const Footer = () => {
             <div className='d-flex justify-content-center align-items-center flex-wrap'>
                 <p className='mb-0 mx-2'>
                     Made with ❤️ by the UniVault Team | &nbsp;
-                    <a 
-                        href="https://github.com/UniVaultProjects" 
-                        target="_blank" 
-                        rel="noopener noreferrer" 
+                    <a
+                        href="https://github.com/UniVaultProjects"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         className="text-white"
                     >
                         Visit our GitHub
